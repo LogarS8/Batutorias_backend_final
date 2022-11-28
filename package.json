@@ -1,0 +1,13 @@
+{
+  "name": "batutorias_cpy_final-main",
+  "version": "1.0.0",
+  "description": "\"# batutorias_cpy_final\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd Backend && npm install && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
